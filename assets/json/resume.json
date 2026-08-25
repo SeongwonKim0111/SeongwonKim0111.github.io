@@ -69,6 +69,17 @@
       "endDate": "2026-02-28",
       "score": "",
       "courses": []
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA, USA",
+      "url": "https://www.berkeley.edu/",
+      "area": "Summer Session",
+      "studyType": "Visiting Student",
+      "startDate": "2025-06-23",
+      "endDate": "2025-08-15",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [],
