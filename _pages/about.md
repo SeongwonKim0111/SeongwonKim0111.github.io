@@ -23,4 +23,4 @@ social: true
 
 I am an Integrated MS/PhD student in the <a href="https://me.gist.ac.kr/" target="_blank">School of Mechanical and Robotics Engineering</a> at the <a href="https://www.gist.ac.kr/" target="_blank">Gwangju Institute of Science and Technology (GIST)</a>, advised by <a href="https://mpil-gist.github.io/" target="_blank">Prof. Pyojin Kim</a>. My research interests lie at the intersection of **Computer Vision**, **Robot Vision**, and **SLAM**, with a focus on enabling robots to reliably perceive, map, and navigate real-world 3D environments. I am particularly interested in LiDAR/visual-inertial odometry, 3D scene reconstruction, and robust state estimation under challenging conditions.
 
-Prior to joining GIST, I completed my undergraduate studies in Mechanical Engineering. I am currently in the first year of my integrated graduate program and excited to contribute to the field of autonomous robotic systems.
+Prior to joining GIST, I completed my undergraduate studies in Electrical Engineering and Computer Science. I am currently in the first year of my integrated graduate program and excited to contribute to the field of autonomous robotic systems.
