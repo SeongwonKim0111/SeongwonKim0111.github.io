@@ -82,9 +82,25 @@
       "courses": []
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "Best Oral Presentation Award",
+      "date": "2026-10",
+      "awarder": "IEEE/RSJ IROS 2026 Student Research Workshop",
+      "url": "https://seongwonkim0111.github.io/assets/pdf/kim2026iros_srw.pdf",
+      "summary": "For “Bridging the Scale Gap: Cross-View Localization from Dense Rover LiDAR to Coarse Lunar DEMs” (selected for oral presentation)."
+    }
+  ],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Bridging the Scale Gap: Cross-View Localization from Dense Rover LiDAR to Coarse Lunar DEMs",
+      "publisher": "IEEE/RSJ IROS 2026 Student Research Workshop",
+      "releaseDate": "2026-10",
+      "url": "https://seongwonkim0111.github.io/assets/pdf/kim2026iros_srw.pdf",
+      "summary": "Seongwon Kim*, Minseok Song*, Seonmo Yang, Soumyadeep Chatterjee, Ryan Soussan, Seokju Lee†, Pyojin Kim† (*equal contribution, †corresponding). Selected for oral presentation; Best Oral Presentation Award."
+    }
+  ],
   "skills": [
     {
       "name": "Programming",

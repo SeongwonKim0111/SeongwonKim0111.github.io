@@ -38,10 +38,12 @@
 - title: Publications
   type: time_table
   contents:
-    - title: Coming Soon
-      year: TBD
+    - title: "Bridging the Scale Gap: Cross-View Localization from Dense Rover LiDAR to Coarse Lunar DEMs"
+      institution: IEEE/RSJ IROS 2026 Student Research Workshop
+      year: 2026
       description:
-        - Empty
+        - "<b>Seongwon Kim*</b>, Minseok Song*, Seonmo Yang, Soumyadeep Chatterjee, Ryan Soussan, Seokju Lee†, Pyojin Kim† (*equal contribution, †corresponding)"
+        - Selected for Oral Presentation; Best Oral Presentation Award
 
 - title: Skills
   type: nested_list
@@ -66,9 +68,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: Empty
+    - year: 2026
       items:
-        - Empty
+        - Best Oral Presentation Award, IEEE/RSJ IROS 2026 Student Research Workshop
 
 - title: Academic Interests
   type: nested_list
